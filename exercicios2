@@ -1,0 +1,19 @@
+Var
+nome:caractere
+endereco:inteiro
+cidade:caractere
+cpf:inteiro
+rg:inteiro
+escreva ("informe seu nome");
+leia (nome);
+escreva ("Seu endereco");
+leia (endereco);
+escreva  ("qual sua cidade");
+leia (cidade);
+escreva ("digite seu cpf");
+leia (cpf);
+escreva ("seu nome é"nome);
+escreve ("seu endereço é",endereco);
+escreva ("sua cidade é",cidade);
+escreva ("seu cpf é",cpf); 
+end
